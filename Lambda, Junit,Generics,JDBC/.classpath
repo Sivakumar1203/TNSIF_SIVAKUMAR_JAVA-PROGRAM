@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Generics Program/Batch_C78/src"/>
+	<classpathentry kind="src" path="JDBC Programs/Batch_C78/src"/>
+	<classpathentry kind="src" path="Junit Programs/Junit_Batch_78/src"/>
+	<classpathentry kind="src" path="Lambda Expression Programs/Batch_C77/src"/>
+	<classpathentry kind="output" path="Junit Programs/Junit_Batch_78/bin"/>
+</classpath>
